@@ -11,7 +11,36 @@
 				<h3>Cadastre seu veículo para vender muito mais rápido!</h3>
 			</div>
 			<div class="form-container">
-				
+				<div class="form-header">
+					<p>Cadastro</p>
+				</div>
+				<div class="form-body">
+					<h1 class="form-title">Venda fácil seu veículo</h1>
+					<p>Descreva as características do seu veículo e marque todas as opcionais e características que ele possui</p>
+					<form action="" method="">
+						<div class="box-input">
+							<label for="title">Título do anúncio: 
+								<span class="required-field">*</span>
+							</label>
+							<input type="text" name="title" id="title" class="block" placeholder="Defina um título para seu veículo" minlength="1" maxlength="30" required>
+
+							<input type="submit" class="btn-submit" value="Cadastrar">
+						</div>
+						<div class="box-input">
+							<label for="price">Preço do Veículo:
+								<span class="required-field">*</span>
+							</label>
+							<input type="number" id="price" name="price" class="block" required>
+						</div>
+						<div class="box-input">
+							<label for="descricao">Descrição: 
+								<span class="required-field">*</span>
+							</label>
+							<textarea id="description" name="description" class="block" cols="30" rows="10" required placeholder="Descreva seu veículo"></textarea>
+						</div>
+						
+					</form>
+				</div>
 			</div>
 		</div>
 	</body>
