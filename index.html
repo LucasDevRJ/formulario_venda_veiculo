@@ -38,7 +38,29 @@
 							</label>
 							<textarea id="description" name="description" class="block" cols="30" rows="10" required placeholder="Descreva seu veículo"></textarea>
 						</div>
-						
+						<div class="box-input">
+							<label for="unique_owner">Único dono? 
+								<span class="required-field">*</span>
+							</label>
+							<select id="unique_owner" name="unique_owner" required>
+								<option value="">Selecione...</option>
+								<option value="1">Sim</option>
+								<option value="0">Não</option>
+							</select>
+						</div>
+						<div class="box-input">
+							<label for="brand">Marca: 
+								<span class="required-field">*</span>
+							</label>
+							<input type="text" name="brand" id="brand" class="block" placeholder="Digite a marca de seu veículo" required>
+						</div>
+						<div class="box-input">
+							<label for="model">Modelo: 
+								<span class="required-field">*</span>
+							</label>
+							<input type="text" name="model" id="model" class="block" placeholder="Digite o modelo de seu veículo" required>
+						</div>
+						<input type="submit" class="btn-submit" value="Cadastrar">
 					</form>
 				</div>
 			</div>
