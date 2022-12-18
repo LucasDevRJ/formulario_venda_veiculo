@@ -1,10 +1,10 @@
 ![LucasDevRJ - Capa](https://user-images.githubusercontent.com/95040236/147415952-3be56c26-f85d-4489-bb6b-e32128ac7ce3.png)
 
-<h1 align="center"> Formulário de Vendas de Veículo </h1>
+<h1 align="center"> Formulário de Venda de Veículo </h1>
 
 ## Sobre
 
-Um formulário feito com HTML/CSS para vendas de veículos. O formulário é inspirado no Google Forms, mas estilizado com animações e lindos campos de entradas de texto, como também a possbilidade de enviar imagens de veículos.
+Um formulário feito com HTML/CSS para venda de veículos. O formulário é inspirado no Google Forms, mas estilizado com animações e lindos campos de entradas de texto, como também a possbilidade de enviar imagens de veículos.
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=%20Finalizado&color=GREEN&style=for-the-badge)
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=Desenvolvedor&message=%20LucasDevRJ&color=GREEN&style=for-the-badge)
