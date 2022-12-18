@@ -57,6 +57,18 @@ textarea {
 	height: 45px;
 }
 
+.form-header p {
+	color: #673AB7;
+	border-bottom: 2px solid #673AB7;
+	width: 100px;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	text-transform: uppercase;	
+	height: 45px;
+	line-height: 45px;
+}
+
 /* Corpo do formulário */
 .form-body {
 	padding: 30px;
