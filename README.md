@@ -22,7 +22,7 @@ https://user-images.githubusercontent.com/95040236/208295682-09a16a1b-3abc-425f-
 # 🛠️ Abrir e rodar o projeto
 
 1. Tenha uma IDE como Sublime, Visual Studio e etc
-2. Baixe o <a href="https://github.com/LucasDevRJ/formulario_vendas_veiculo/archive/refs/heads/master.zip">projeto</a>
+2. Baixe o <a href="https://github.com/LucasDevRJ/formulario_venda_veiculo/archive/refs/heads/master.zip">projeto</a>
 3. Coloque o projeto na IDE
 4. Aproveite o projeto
 
